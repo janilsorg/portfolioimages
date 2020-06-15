@@ -103,7 +103,7 @@ Não disponível
 - Flask
 
 ### Screeenshots
-[Screenshots Fluig](mobile/mobile.md)
+[Screenshots Aplicativos](mobile/mobile.md)
 
 
 
