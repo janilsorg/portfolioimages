@@ -15,3 +15,14 @@
 ![alt text](https://github.com/janilsorg/portfolioimages/blob/master/App%20Food/foodapp4.png)
 
 ### Aplicativos diversos
+
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/mobile/meals1.png)
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/mobile/meals2.png)
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/mobile/meals3.png)
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/mobile/meals4.png)
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/mobile/shop1.png)
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/mobile/shop2.png)
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/mobile/shop3.png)
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/mobile/shop4.png)
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/mobile/shop5.png)
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/mobile/shop6.png)
