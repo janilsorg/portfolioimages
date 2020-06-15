@@ -79,4 +79,32 @@ Não disponível
 ### Screeenshots
 [Screenshots Fluig](fluig/fluig.md)
 
+# Aplicativos móveis MVPs ou em fase Beta (2020-)
+### Descrição
+<p>
+Criação de diversos aplicativos para demostrar funcionalidades que clientes em pontenciais estão em busca.
+</p>
+
+### URL
+Não disponível
+ 
+### Atribuições
+- Desenvolvimento de aplicativos iOS e Android
+- Integração com Google Maps
+- Integração com câmera do celular
+- Desenvolvimento de API para backend
+- Desenvolvimento de interface Web para gestão
+
+### Tecnologias
+- Flutter
+- JavaScript
+- Vuejs
+- Python
+- Flask
+
+### Screeenshots
+[Screenshots Fluig](mobile/mobile.md)
+
+
+
 
