@@ -22,3 +22,30 @@ https://www.webpreserv.com.br/
 
 ## Screeenshots
 [Screenshots WebPreserv](webpreserv/webpreserv.md)
+
+
+# Central do Cliente (2018)
+## Descrição
+<p>Empresa de telecomunicações solicitou implementação de Site e Aplicativo para central de cliente. Dentre as features estão obtenção de boleto, Notas fiscais, verificação de extrato, status do serviço e de pagamentos, etc.
+</p>
+
+## URL
+Não disponível
+ 
+## Atribuições
+- Desenvolvimento do sistema web
+- Criação de API REST
+- Integração com API do ERP
+- Desenvolvimento dos aplicativos Mobile para iOS e Android
+
+## Tecnologias
+- React Js
+- React Native
+- Nodejs
+- Firebase
+- Docker
+
+## Screeenshots
+Não disponível
+
+
