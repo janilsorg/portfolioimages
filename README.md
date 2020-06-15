@@ -19,6 +19,7 @@ https://www.webpreserv.com.br/
 - ORM
 - Postgres
 - Paypal API
+- PagSeguro API
 
 ## Screeenshots
 [Screenshots WebPreserv](webpreserv/webpreserv.md)
@@ -44,6 +45,36 @@ Não disponível
 - Nodejs
 - Firebase
 - Docker
+
+## Screeenshots
+Não disponível
+
+
+# Projetos Fluig
+## Descrição
+<p>
+Implantação e treinamento dos módulos BPM, WCM, ECM, LMS. Criação de telas customizadas (WCM) usando Vuejs e fluig-style-guide. Integração do Fluig com API externa e banco de dados.
+Projetos BPM desenvolvi (todos integrando com ERP Protheus através da API):
+Solicitação de Compras, Solicitação de numerários, Solicitação de compras franqueado*, Qualificação fornecedor, Qualificação Contrato, Qualificação de produtos, Gestão de contingência (PCO), Aprovação de títulos financeiros, Solicitação de reembolso/viagem, etc. 
+</p>
+<p>integração com GetNet para pagamento no cartão de crédito, de débito e Boleto</p>
+
+## URL
+Não disponível
+ 
+## Atribuições
+- Desenvolvimento de processos BPM e formulários
+- Customização de interface WCM
+- Integração com API do ERP e externas
+- Criação de Datasets customizados
+- Implantação do Fluig
+- Treinamentos (básico, intermediário e avançado)
+- Integração com plataforma de pagamento GetNet
+
+## Tecnologias
+- Fluig
+- JavaScript
+- Vuejs
 
 ## Screeenshots
 Não disponível
