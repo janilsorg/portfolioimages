@@ -50,14 +50,14 @@ Não disponível
 Não disponível
 
 
-# Projetos Fluig
+# Projetos Fluig (2018-2020)
 ### Descrição
 <p>
 Implantação e treinamento dos módulos BPM, WCM, ECM, LMS. Criação de telas customizadas (WCM) usando Vuejs e fluig-style-guide. Integração do Fluig com API externa e banco de dados.
 Projetos BPM desenvolvi (todos integrando com ERP Protheus através da API):
 Solicitação de Compras, Solicitação de numerários, Solicitação de compras franqueado*, Qualificação fornecedor, Qualificação Contrato, Qualificação de produtos, Gestão de contingência (PCO), Aprovação de títulos financeiros, Solicitação de reembolso/viagem, etc. 
 </p>
-<p>integração com GetNet para pagamento no cartão de crédito, de débito e Boleto</p>
+<p>*integração com GetNet para pagamento no cartão de crédito, de débito e Boleto</p>
 
 ### URL
 Não disponível
