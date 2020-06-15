@@ -21,4 +21,4 @@ https://www.webpreserv.com.br/
 - Paypal API
 
 ## Screeenshots
-[Screenshots WebPreserv](webpreserv/webpreserv.md)
+[Screenshots WebPreserv](webpreserv/webpreserv.md){:target="_blank"}

@@ -1,5 +1,5 @@
 ## Screenshots WebPreserv
-![alt text](https://github.com/janilsorg/portfolioimages/blob/master/webpreserv/01%20-%20inicial.png)s
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/webpreserv/01%20-%20inicial.png)
 ![alt text](https://github.com/janilsorg/portfolioimages/blob/master/webpreserv/02%20-%20sobre.png)
 ![alt text](https://github.com/janilsorg/portfolioimages/blob/master/webpreserv/03%20-%20pasta%20preserva.png)
 ![alt text](https://github.com/janilsorg/portfolioimages/blob/master/webpreserv/04%20-%20preservacoes.png)
