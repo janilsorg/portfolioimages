@@ -5,6 +5,6 @@
 
 ![alt text](https://github.com/janilsorg/portfolioimages/blob/master/fluig/Fluig-Cartao.png)
 
-![alt text](https://github.com/janilsorg/portfolioimages/blob/master/fluig/a-Formula%CC%81rio%20NCC.png)
+![alt text](https://github.com/janilsorg/portfolioimages/blob/master/fluig/a-Formul%C3%A1rio%20NCC.png)
 
 ![alt text](https://github.com/janilsorg/portfolioimages/blob/master/fluig/a-Formul%C3%A1rio%20Garantias.png)
